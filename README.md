@@ -46,3 +46,28 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyabel&show_icons=true&theme=dracula" alt="codebyabel's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyabel&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 Currently Learning:
+- Kubernetes ☸️
+- Docker 🐳
+- GoLang 🦦
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=codebyabel.codebyabel)
