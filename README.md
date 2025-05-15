@@ -2,22 +2,22 @@
 <h3 align="center">Software Engineering Student at Bahir Dar University | Passionate about Web Development, Linux, and System Programming</h3>
 
 <p align="center">
-  <a href="https://github.com/codebyabel/codebyabel">
-    <img src="https://img.shields.io/github/stars/codebyabel?style=social" alt="GitHub stars"/>
+  <!-- Total Stars Across All Repos -->
+  <a href="https://github.com/search?q=user:codebyabel+stars:%3E0&type=Repositories" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/github/stars/codebyabel?style=social" alt="Total GitHub Stars"/>
   </a>
-  <a href="https://github.com/codebyabel/codebyabel/fork">
-    <img src="https://img.shields.io/github/forks/codebyabel?style=social" alt="GitHub forks"/>
+  <!-- Total Forks Across All Repos -->
+  <a href="https://github.com/codebyabel?tab=forks" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/github/forks/codebyabel?style=social" alt="Total GitHub Forks"/>
   </a>
-</p>
-
-<p align="center">
-  <!-- Total stars across all repos (updated by GitHub Action) -->
-  ![Total GitHub Stars](https://img.shields.io/badge/Total%20Stars-0-brightgreen?style=social)
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=codebyabel.codebyabel" alt="Visitor Count"/>
 </p>
 
 ---
 
-- 🔭 I’m currently working on [Installing Kwort Linux and implementing a system call](https://github.com/codebyabel/OSSP-KWORTLINUX-Abel)
+### 🔭 I’m currently working on  
+[Installing Kwort Linux and implementing a system call](https://github.com/codebyabel/OSSP-KWORTLINUX-Abel)
 
 ---
 
@@ -51,6 +51,23 @@
 
 ---
 
+### 🌐 Most Used Language (Outside Coding)
+
+- English
+
+---
+
+### 🚀 Currently Learning:
+
+- Java ☕  
+- JavaScript ✨  
+- Python 🐍  
+- React ⚛️  
+- MySQL 🐬  
+- Node.js 🌐  
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -60,21 +77,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyabel&layout=compact&theme=dracula" alt="Top Languages"/>
 </p>
-
----
-
-### 🌐 Most Used Language (Outside Coding)
-- English
-
----
-
-### 🚀 Currently Learning:
-- Java ☕
-- JavaScript ✨
-- Python 🐍
-- React ⚛️
-- MySQL 🐬
-- Node.js 🌐
 
 ---
 
