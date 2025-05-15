@@ -1,98 +1,82 @@
-<h1 align="center">👋 Hi, I'm Abel Amare</h1>
-<h3 align="center">Software Engineering Student at Bahir Dar University | Passionate about Web Development, Linux, and System Programming</h3>
+<h1 align="center">Hi 👋, I'm Abel Amare</h1>
+<h3 align="center">Software engineering  Student at Bahir Dar University | Passionate about Web development , Linux and System Programming</h3>
 
-<p align="center">
-  <a href="https://github.com/codebyabel/OSSP-KWORTLINUX-Abel/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/codebyabel/OSSP-KWORTLINUX-Abel?style=social" alt="Stars">
+- 🔭 I’m currently working on <a href="https://github.com/codebyabel/OSSP-KWORTLINUX-Abel" target="_blank">Installing Kwort Linux and implementing a system call</a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://discord.gg/Hcj54CPd" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
-  <a href="https://github.com/codebyabel/OSSP-KWORTLINUX-Abel/network/members" target="_blank">
-    <img src="https://img.shields.io/github/forks/codebyabel/OSSP-KWORTLINUX-Abel?style=social" alt="Forks">
+  <a href="https://t.me/Leoabelu" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" height="30" width="40" />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=codebyabel.codebyabel" alt="Visitors">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-## 📌 Project: OSSP – Installing Kwort Linux & Implementing exec() System Call
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyabel&show_icons=true&theme=dracula" alt="codebyabel's GitHub Stats" />
+</p>
 
-> This project is part of the Operating Systems and System Programming (OSSP) course at Bahir Dar University. It involves installing Kwort Linux on VMware, configuring its environment, and implementing the `exec()` system call in C.
-
----
-
-## 🧭 Table of Contents
-
-- 🔰 Introduction  
-- 🎯 Objectives  
-- 🖥️ System Requirements  
-  - Hardware Requirements  
-  - Software Requirements  
-- 🛠️ Installation Steps  
-  - VMware Setup  
-  - Kwort Linux Installation  
-  - GRUB Configuration  
-  - Network Setup  
-  - GUI Installation  
-- ⚠️ Issues Faced  
-- ✔️ Solutions Applied  
-- 📁 Filesystem Support  
-- ✅ Advantages & ❌ Disadvantages  
-- 📌 Conclusion  
-- 🔮 Future Outlook / Recommendations  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyabel&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
 
 ---
 
-## 🔰 Introduction
+<h3 align="left">🌐 Most Used Language (Outside Coding):</h3>
+<p>English</p>
 
-The OSSP project explores how to manually install a lightweight Linux distribution (Kwort) in a virtualized environment, providing insights into Linux bootloaders, services, and system-level programming using system calls like `exec()`.
-
----
-
-## 🎯 Objectives
-
-- Understand the installation of Linux using VMware.
-- Learn how to configure Linux networking, GUI, and services.
-- Implement a system call (`exec()`) using C.
-- Analyze filesystem and OS behavior.
-- Compare virtualization technologies.
-
----
-
-## 🖥️ System Requirements
-
-### Hardware Requirements
-- 4 GB RAM minimum
-- 25 GB free disk space
-- Dual-core processor or higher
-- Virtualization-enabled BIOS
-
-### Software Requirements
-- VMware Workstation / VMware Player
-- Kwort Linux ISO
-- GCC compiler
-- Optional: `lxdm`, `xfce4`, `dhcpcd`
+<h3 align="left">🚀 Currently Learning:</h3>
+<ul>
+  <li>Java ☕</li>
+  <li>JavaScript ✨</li>
+  <li>Python 🐍</li>
+  <li>React ⚛️</li>
+  <li>MySQL 🐬</li>
+  <li>Node.js 🌐</li>
+</ul>
 
 ---
 
-## 🛠️ Installation Steps
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
-### VMware Setup
-- Created a new VM with recommended specs.
-- Mounted Kwort ISO as a boot medium.
+---
 
-### Kwort Linux Installation
-- Manually partitioned disk using `cfdisk`.
-- Formatted using `mkfs.ext4` and mounted partitions.
-- Installed base system via `kwort-install`.
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=codebyabel.codebyabel)
 
-### GRUB Configuration
-- Installed GRUB with `grub-install /dev/sda`.
-- Generated GRUB config using `grub-mkconfig -o /boot/grub/grub.cfg`.
-
-### Network Setup
-- Configured `/etc/resolv.conf` manually for DNS.
-- Verified connectivity using `ping`.
-
-### GUI Installation (Optional)
-```bash
-kpkg update
-kpkg install xfce4 lxdm
