@@ -59,10 +59,18 @@
 
 ---
 
-### 🚀 Currently Learning:
-- Java ☕
-- Python 🐍
-- React ⚛️
+<h3 align="left">🌐 Most Used Language (Outside Coding):</h3>
+<p>English</p>
+
+<h3 align="left">🚀 Currently Learning:</h3>
+<ul>
+  <li>Java ☕</li>
+  <li>JavaScript ✨</li>
+  <li>Python 🐍</li>
+  <li>React ⚛️</li>
+  <li>MySQL 🐬</li>
+  <li>Node.js 🌐</li>
+</ul>
 
 ---
 
