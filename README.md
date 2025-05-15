@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abel Amare</h1>
-<h3 align="center">Software engineering  Student at Bahir Dar University | Passionate about Web development , Linux and System Programming</h3>
+<h3 align="center">Software Engineering Student at Bahir Dar University | Passionate about Web Development, Linux, and System Programming</h3>
 
 - 🔭 I’m currently working on <a href="https://github.com/codebyabel/OSSP-KWORTLINUX-Abel" target="_blank">Installing Kwort Linux and implementing a system call</a>
 
@@ -49,16 +49,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebyabel&show_icons=true&theme=dracula" alt="codebyabel's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyabel&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-
----
-
 <h3 align="left">🌐 Most Used Language (Outside Coding):</h3>
 <p>English</p>
 
@@ -74,9 +64,28 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyabel&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyabel&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
+
+---
+
+<h3 align="left">📌 Repo Badges:</h3>
+<p>
+  <img src="https://img.shields.io/github/stars/codebyabel/OSSP-KWORTLINUX-Abel?style=social" alt="Repo Stars" />
+  <img src="https://img.shields.io/github/forks/codebyabel/OSSP-KWORTLINUX-Abel?style=social" alt="Repo Forks" />
+</p>
+
+---
+
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=codebyabel.codebyabel)
-
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=codebyabel.codebyabel" alt="Visitor Badge"/>
+</p>
