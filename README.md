@@ -1,10 +1,15 @@
-<h1 align="center">Hi 👋, I'm Abel Amare</h1>
+<h1 align="center">👋 Hi, I'm Abel Amare</h1>
 <h3 align="center">Software Engineering Student at Bahir Dar University | Passionate about Web Development, Linux, and System Programming</h3>
 
----
-
-### 🔭 I’m currently working on
-[Installing Kwort Linux and implementing a system call](https://github.com/codebyabel/OSSP-KWORTLINUX-Abel)
+<p align="center">
+  <a href="https://github.com/codebyabel">
+    <img src="https://img.shields.io/github/stars/codebyabel?style=social" alt="GitHub stars" />
+  </a>
+  <a href="https://github.com/codebyabel?tab=forks">
+    <img src="https://img.shields.io/github/forks/codebyabel?style=social" alt="GitHub forks" />
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=codebyabel.codebyabel" alt="Visitors" />
+</p>
 
 ---
 
@@ -28,12 +33,8 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+  <a href="https://linuxjourney.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+  <span style="font-size: 18px; font-weight: bold; margin-left: 10px;">Skilled in: C++, C, HTML, CSS, OS Installation</span>
 </p>
 
 ---
@@ -41,11 +42,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebyabel&show_icons=true&theme=dracula" alt="Abel's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyabel&show_icons=true&theme=dracula&cache_seconds=1800" alt="Abel's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyabel&layout=compact&theme=dracula" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyabel&layout=compact&theme=dracula&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
