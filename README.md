@@ -1,22 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abel Amare</h1>
 <h3 align="center">Software Engineering Student at Bahir Dar University | Passionate about Web Development, Linux, and System Programming</h3>
 
-<p align="center">
-  <!-- Total Stars Across All Repos -->
-  <a href="https://github.com/search?q=user:codebyabel+stars:%3E0&type=Repositories" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/stars/codebyabel?style=social" alt="Total GitHub Stars"/>
-  </a>
-  <!-- Total Forks Across All Repos -->
-  <a href="https://github.com/codebyabel?tab=forks" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/forks/codebyabel?style=social" alt="Total GitHub Forks"/>
-  </a>
-  <!-- Visitor Badge -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=codebyabel.codebyabel" alt="Visitor Count"/>
-</p>
-
 ---
 
-### 🔭 I’m currently working on  
+### 🔭 I’m currently working on
 [Installing Kwort Linux and implementing a system call](https://github.com/codebyabel/OSSP-KWORTLINUX-Abel)
 
 ---
@@ -51,23 +38,6 @@
 
 ---
 
-### 🌐 Most Used Language (Outside Coding)
-
-- English
-
----
-
-### 🚀 Currently Learning:
-
-- Java ☕  
-- JavaScript ✨  
-- Python 🐍  
-- React ⚛️  
-- MySQL 🐬  
-- Node.js 🌐  
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -77,6 +47,21 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyabel&layout=compact&theme=dracula" alt="Top Languages"/>
 </p>
+
+---
+
+### 🌐 Most Used Language (Outside Coding)
+- English
+
+---
+
+### 🚀 Currently Learning:
+- Java ☕
+- JavaScript ✨
+- Python 🐍
+- React ⚛️
+- MySQL 🐬
+- Node.js 🌐
 
 ---
 
