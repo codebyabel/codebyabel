@@ -60,9 +60,9 @@
 ---
 
 ### 🚀 Currently Learning:
-- Kubernetes ☸️
-- Docker 🐳
-- GoLang 🦦
+- Java ☕
+- Python 🐍
+- React ⚛️
 
 ---
 
