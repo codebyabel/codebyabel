@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abel Amare</h1>
-<h3 align="center">Software engineering OSSP Student at Bahir Dar University | Passionate about Linux and System Programming</h3>
+<h3 align="center">Software engineering  Student at Bahir Dar University | Passionate about Web development , Linux and System Programming</h3>
 
 - 🔭 I’m currently working on <a href="https://github.com/codebyabel/OSSP-KWORTLINUX-Abel" target="_blank">Installing Kwort Linux and implementing a system call</a>
 
