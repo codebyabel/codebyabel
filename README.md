@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Abel Amare</h1>
-<h3 align="center">Software Engineering Student at Bahir Dar University | Passionate about Web Development, Linux, and System Programming</h3>
+<h3 align="center">Software Engineering Student at Bahir Dar University | Passionate about  coding,solving real-world problems,Web Development, Linux, and System Programming</h3>
 
 <p align="center">
   <a href="https://github.com/codebyabel">
